@@ -1,0 +1,11 @@
+Order:
+Order [orderId=2, date=2019-01-01, table=2]
+Items:
+BaseProduct: 5 salmon 10 12
+CompositeProduct: 6 sandwich 0 0
+Ingredients:
+BaseProduct: 1 cheese 5 5
+BaseProduct: 2 ham 6 4
+BaseProduct: 3 salad 3 2
+
+Total: 24
